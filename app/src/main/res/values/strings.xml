@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="winner" translatable="false">Поздравляю, вы угадали (%d)</string>
+</resources>
